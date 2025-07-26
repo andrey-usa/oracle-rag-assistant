@@ -1,0 +1,5 @@
+python-oracledb>=2.0.0
+polars>=0.20.0
+pyarrow>=13.0.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
