@@ -14,7 +14,6 @@ This repository contains a prototype **Retrieval‑Augmented Generation (RAG) as
 | Path | Description |
 |---|---|
 | `oracle_rag_tool.py` | Source code implementing the `OracleConnector`, `DataProfiler`, `ColumnComparator` and `RagAssistant` classes. |
-| `oracle_rag_report.md` | A report outlining design decisions, alternative architectures and references for building RAG systems over Oracle.  It also summarises third‑party libraries like Polars, Great Expectations and python‑oracledb. |
 
 ### Installation
 
